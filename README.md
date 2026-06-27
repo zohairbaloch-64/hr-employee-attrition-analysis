@@ -11,7 +11,7 @@
 [![SHAP](https://img.shields.io/badge/SHAP-Explainability-9C27B0?style=for-the-badge)](https://shap.readthedocs.io)
 [![Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/zohairbaloch)
 
-**By Zohair Baloch** · BS Artificial Intelligence · KFUEIT · CodeAlpha Data Analyst Intern
+**By Zohair Baloch** ·  Data Analyst 
 
 [LinkedIn](https://linkedin.com/in/zohair-baloch-data-analyst) · [Kaggle](https://kaggle.com/zohairbaloch) · [GitHub](https://github.com/zohairbaloch-64)
 
