@@ -202,7 +202,7 @@ IBM-HR-Attrition-Analysis/
 
 ### Option 1 — Kaggle (Recommended)
 
-1. Open the notebook on [Kaggle](https://kaggle.com/zohairbaloch)
+1. Open the notebook on [Kaggle]([https://www.kaggle.com/code/zohairbaloch/hr-analytics-employee-attrition-prediction])
 2. Add the dataset: `HR-Employee-Attrition.csv`
 3. Click **Run All** — no setup required
 
