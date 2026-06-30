@@ -82,7 +82,7 @@ The notebook is structured around the **PACE framework** (Plan · Analyze · Con
 
 ---
 
-## 🔧 Feature Engineering
+##  Feature Engineering
 
 Seven domain-informed features were created before modeling:
 
@@ -98,7 +98,7 @@ Seven domain-informed features were created before modeling:
 
 ---
 
-## 🤖 Models
+##  Models
 
 Four classifiers were trained and evaluated with **5-fold stratified cross-validation**:
 
