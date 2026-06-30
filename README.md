@@ -118,7 +118,7 @@ Models are evaluated on **AUC-ROC, F1-Score, and Recall** (not raw accuracy) bec
 
 ---
 
-## 🔬 SHAP Explainability
+##  SHAP Explainability
 
 SHAP (SHapley Additive exPlanations) is applied to the XGBoost model to provide:
 
@@ -128,7 +128,7 @@ SHAP (SHapley Additive exPlanations) is applied to the XGBoost model to provide:
 
 ---
 
-## 📈 Executive Dashboard
+##  Executive Dashboard
 
 A single-page dashboard consolidates:
 - 4 KPI cards (Attrition Rate, Headcount Left, Best AUC, OT Multiplier)
@@ -143,7 +143,7 @@ A single-page dashboard consolidates:
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 | Priority | Intervention | Evidence |
 |----------|-------------|---------|
@@ -156,7 +156,7 @@ A single-page dashboard consolidates:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 IBM-HR-Attrition-Analysis/
