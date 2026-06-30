@@ -19,7 +19,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Employee attrition is one of the most expensive HR challenges an organization faces. Replacing a single employee can cost **50–200% of their annual salary** — accounting for recruitment, onboarding, lost productivity, and team disruption.
 
@@ -31,7 +31,7 @@ The notebook is structured around the **PACE framework** (Plan · Analyze · Con
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 | Attribute | Value |
 |-----------|-------|
