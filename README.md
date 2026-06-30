@@ -184,7 +184,7 @@ IBM-HR-Attrition-Analysis/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Library | Version | Purpose |
 |---------|---------|---------|
@@ -198,7 +198,7 @@ IBM-HR-Attrition-Analysis/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Option 1 — Kaggle (Recommended)
 
@@ -224,29 +224,29 @@ jupyter notebook IBM_HR_Attrition_Final.ipynb
 
 ---
 
-## 📐 PACE Framework
+##  PACE Framework
 
 This project follows the **PACE** structured analytics framework:
 
 | Stage | Focus | Deliverable |
 |-------|-------|-------------|
-| 📌 **Plan** | Define business problem · Understand dataset schema | Problem statement + success metrics |
-| 🔍 **Analyze** | EDA · Data cleaning · 8 visualization sections | Key insights & patterns |
-| 🔧 **Construct** | Feature engineering · 4 ML models · Cross-validation | Trained classifiers |
-| ✅ **Execute** | Evaluate models · SHAP · Dashboard · Recommend | Business impact + action plan |
+|  **Plan** | Define business problem · Understand dataset schema | Problem statement + success metrics |
+|  **Analyze** | EDA · Data cleaning · 8 visualization sections | Key insights & patterns |
+|  **Construct** | Feature engineering · 4 ML models · Cross-validation | Trained classifiers |
+|  **Execute** | Evaluate models · SHAP · Dashboard · Recommend | Business impact + action plan |
 
 ---
 
-## 📬 Connect
+##  Connect
 
 <div align="center">
 
 | Platform | Link |
 |----------|------|
 | 💼 LinkedIn | [linkedin.com/in/zohair-baloch-data-analyst](https://linkedin.com/in/zohair-baloch-data-analyst) |
-| 📊 Kaggle | [kaggle.com/zohairbaloch](https://kaggle.com/zohairbaloch) |
-| 🐙 GitHub | [github.com/zohairbaloch-64](https://github.com/zohairbaloch-64) |
-| 📧 Email | zohairbaloch.7164@gmail.com |
+|  Kaggle | [kaggle.com/zohairbaloch](https://kaggle.com/zohairbaloch) |
+|  GitHub | [github.com/zohairbaloch-64](https://github.com/zohairbaloch-64) |
+|  Email | zohairbaloch.7164@gmail.com |
 
 </div>
 
