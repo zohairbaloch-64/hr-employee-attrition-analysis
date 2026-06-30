@@ -65,7 +65,7 @@ The notebook is structured around the **PACE framework** (Plan · Analyze · Con
 
 ---
 
-## 🔑 Key Findings
+##  Key Findings
 
 | # | Finding | Attrition Impact |
 |---|---------|-----------------|
